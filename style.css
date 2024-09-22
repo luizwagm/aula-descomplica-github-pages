@@ -1,0 +1,23 @@
+/* Banner Section */
+.banner {
+    background-color: #007bff;
+    color: white;
+    padding: 100px 0;
+}
+
+.banner h1 {
+    font-size: 3rem;
+}
+
+.banner p {
+    font-size: 1.25rem;
+}
+
+/* Features Section */
+.features h3 {
+    margin-top: 20px;
+}
+
+.features p {
+    color: #6c757d;
+}
